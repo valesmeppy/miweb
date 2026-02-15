@@ -1,3 +1,9 @@
 Chanchito travieso
+<<<<<<< HEAD
 Chanchito sucio
+=======
+Chanchito enojón
+Chanchito sucio
+Chancito lindo
+>>>>>>> ramab
 Tiago
